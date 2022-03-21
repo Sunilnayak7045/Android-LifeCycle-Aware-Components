@@ -17,5 +17,6 @@ Observer is called 1st then Activity.
 2022-03-21 16:16:38.854 29239-29239/com.example.lifecycleawarecomponent D/Main: Observer ON-DESTROY
 2022-03-21 16:16:38.854 29239-29239/com.example.lifecycleawarecomponent D/Main: Activity ON-DESTROY
 
-Application Example : youtube 
+Application Example : youtube
+
 Advantage : Observer is now seperated from activity so it can be attached to different activity.
