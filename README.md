@@ -1,7 +1,7 @@
 Creation phase:
 Activity is called 1st then Observer. 
 
-2022-03-21 16:16:07.997 29239-29239/com.example.lifecycleawarecomponent D/Main: Activity On-Create
+com.example.lifecycleawarecomponent D/Main: Activity On-Create\n
 2022-03-21 16:16:07.998 29239-29239/com.example.lifecycleawarecomponent D/Main: Observer On-Create
 2022-03-21 16:16:08.005 29239-29239/com.example.lifecycleawarecomponent D/Main: Activity ON-RESUME
 2022-03-21 16:16:08.005 29239-29239/com.example.lifecycleawarecomponent D/Main: Observer ON-RESUME
